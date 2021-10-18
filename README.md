@@ -1,4 +1,4 @@
 # TutorGit
 
 Download Git terlebih dahulu
-![img]ss/git.png
+![Gambar 1](ss/git.png)
